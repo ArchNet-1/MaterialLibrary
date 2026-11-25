@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Material Library",
   "description": "Materials stored by enum or int key, so code swaps materials by name instead of holding references everywhere.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#MaterialLibrary",
   "changelogUrl": "https://github.com/ArchNet-1/MaterialLibrary/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/MaterialLibrary/blob/main/LICENSE.md",

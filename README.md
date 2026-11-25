@@ -29,4 +29,4 @@ _renderer.sharedMaterial = _materials.GetMaterial(Surface.Gold);
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).
