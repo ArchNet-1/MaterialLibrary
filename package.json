@@ -1,22 +1,23 @@
 {
   "name": "com.archnet.library.material",
-  "version": "1.0.0",
-  "displayName": "Arch Net Library Material",
-  "description": "Material Library is a link between Material and enum or integer.",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Material Library",
+  "description": "Materials stored by enum or int key, so code swaps materials by name instead of holding references everywhere.",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#MaterialLibrary",
+  "changelogUrl": "https://github.com/ArchNet-1/MaterialLibrary/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/MaterialLibrary/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.archnet.library.core": "2.0.0"
+  },
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Library",
-    "Material",
-    "Custom"
+    "archnet",
+    "library",
+    "material"
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
-  },
-     "dependencies": {
-    "com.unity.editorcoroutines": "1.0.0"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }
